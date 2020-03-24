@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto é baseado na semana ommnistack 10 (https://rocketseat.com.br/week/inscricao/10.0). O objetivo desta aplicação é ter um app que mostre com base na geolocalização desenvolvedores próximos.
+
+Na parte web deste projeto foi utilizado o React e tem como objetivo consumir de uma API no back-end uma lista de desenvolvedores cadastrados e também permitr o cadastro de novos desenvolvedores por meio de um formulário bem simple.
 
 ## Available Scripts
 
